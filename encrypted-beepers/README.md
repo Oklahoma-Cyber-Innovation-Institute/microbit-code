@@ -1,6 +1,3 @@
-
-> Open this page at [https://colonket.github.io/encrypted-beepers/](https://colonket.github.io/encrypted-beepers/)
-
 ## Use as Extension
 
 This repository can be added as an **extension** in MakeCode.
