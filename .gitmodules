@@ -1,0 +1,3 @@
+[submodule "worm-demo"]
+	path = worm-demo
+	url = https://github.com/colonket/worm-demo
